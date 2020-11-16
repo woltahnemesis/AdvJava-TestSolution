@@ -1,0 +1,16 @@
+.root
+{
+    -fx-font-size: 20px;
+    -fx-background-color: #b4cbf0;
+}
+
+.button
+{
+    -fx-background-radius: 10px;
+}
+
+.combo-box
+{
+    -fx-background-radius: 10px;
+}
+
